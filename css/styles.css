@@ -1,0 +1,14 @@
+h1{
+    color: chocolate;
+}
+body {background-color: darkolivegreen; 
+    font-family:'Courier New', Courier, monospace ;
+cursor: crosshair;
+}
+img{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+h1,h2,h3{
+    font-family: 'Times New Roman', Times, serif;
+}
